@@ -1,0 +1,78 @@
+# =============== #
+
+# Unity generated #
+
+# =============== #
+
+Temp/
+
+Obj/
+
+UnityGenerated/
+
+Library/
+
+WebPlayer/
+
+WebGL/
+
+StandAlone/
+
+# ===================================== #
+
+# Visual Studio / MonoDevelop generated #
+
+# ===================================== #
+
+ExportedObj/
+
+.vs/
+
+*.svd
+
+*.userprefs
+
+*.csproj
+
+*.pidb
+
+*.suo
+
+*.sln
+
+*.user
+
+*.unityproj
+
+*.booproj
+
+
+# ============ #
+
+# OS generated #
+
+# ============ #
+
+.DS_Store
+
+.DS_Store?
+
+._*
+
+.Spotlight-V100
+
+.Trashes
+
+ehthumbs.db
+
+Thumbs.db
+
+
+
+# ==== #
+
+# etc. #
+
+# ==== #
+
+APK/
